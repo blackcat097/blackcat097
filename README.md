@@ -9,7 +9,6 @@
 - ⚡ Fᴜɴ Fᴀᴄᴛ: **I Aᴍ Nᴏᴏʙ**
 
 
-<img src="https://komarev.com/ghpvc/?username=The_cat_lover0=Pʀᴏғɪʟᴇ%20Vɪᴇᴡs&color=blueviolet&style=flat-square" />
 
 ```python
 Nᴀᴍᴇ = "Eʀʀᴏʀ"
