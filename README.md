@@ -1,16 +1,20 @@
-### Hi there 👋
+   𝘽𝙡𝙖𝙘𝙠 𝙘𝙖𝙩🐱
 
-<!--
-**blackcat097/blackcat097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ **<a href="https://t.me/catmusicworld">Rᴏʙᴏᴛ </a>**
 
-Here are some ideas to get you started:
+- 🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ **Pʏᴛʜᴏɴ Aɴᴅ ʜᴀᴄᴋɪɴɢ**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ **[Nᴏᴏʙ Cᴏᴅᴇʀ](HTTPS://t.me/The_cat_lover0)**
+
+- ⚡ Fᴜɴ Fᴀᴄᴛ: **I Aᴍ Nᴏᴏʙ**
+
+
+<img src="https://komarev.com/ghpvc/?username=The_cat_lover0=Pʀᴏғɪʟᴇ%20Vɪᴇᴡs&color=blueviolet&style=flat-square" />
+
+```python
+Nᴀᴍᴇ = "Eʀʀᴏʀ"
+Wʜᴏ Aᴍ I = ['Cᴏᴅɪɴɢ = ❣️']
+Aɢᴇ = "❌"
+```
+
+
