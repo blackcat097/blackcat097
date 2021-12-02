@@ -9,3 +9,9 @@
 - ⚡ Fᴜɴ Fᴀᴄᴛ: **I Aᴍ Nᴏᴏʙ**
 
 
+
+<details>
+  <summary> Github Stats </summary>
+  <br/>
+<p align="left"> <a href="https://github.com/blackcat097"><img src="https://github-profile-trophy.vercel.app/?username=blackcat097&no-bg=true" alt="blackcat" /></a> </p>
+</details>
