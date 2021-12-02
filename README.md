@@ -38,4 +38,4 @@
 </p>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=blackcat-ex&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
+![trophy](https://github-profile-trophy.vercel.app/?username=kennedy-ex&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
