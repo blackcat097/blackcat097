@@ -1,4 +1,28 @@
-   𝘽𝙡𝙖𝙘𝙠 𝙘𝙖𝙩🐱
+
+
+
+https://telegra.ph/file/7daef8aa1f321356400b6.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+         𝘽𝙡𝙖𝙘𝙠 𝙘𝙖𝙩🐱
 
 - 🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ **<a href="https://t.me/catmusicworld">Rᴏʙᴏᴛ </a>**
 
