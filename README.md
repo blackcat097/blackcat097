@@ -19,3 +19,17 @@
   <br/>
 <p align="left"> <a href="https://github.com/blackcat097"><img src="https://github-profile-trophy.vercel.app/?username=blackcat097&no-bg=true" alt="blackcat" /></a> </p>
 </details>
+
+
+## Contribution Graph 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackcat097&theme=highcontrast" alt="blackcat097" /></p>
+
+### Contribution Graph:
+
+<p align="center">
+    <img
+        width="100%"
+        src="https://activity-graph.herokuapp.com/graph?username=blackcat097&custom_title=Contribution+Graph&theme=xcode"
+    />
+</p>
