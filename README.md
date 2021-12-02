@@ -9,6 +9,14 @@
 - ⚡ Fᴜɴ Fᴀᴄᴛ: **I Aᴍ Nᴏᴏʙ**
 
 
+<!-- png icons from https://iconscout.com/ -->
+
+
+
+
+
+
+
 
 <details>
   <summary> Github Stats </summary>
