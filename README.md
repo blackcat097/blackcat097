@@ -36,3 +36,6 @@
         src="https://activity-graph.herokuapp.com/graph?username=blackcat097&custom_title=Contribution+Graph&theme=xcode"
     />
 </p>
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=blackcat-ex&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
