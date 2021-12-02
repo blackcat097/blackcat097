@@ -8,11 +8,7 @@
 
 - ⚡ Fᴜɴ Fᴀᴄᴛ: **I Aᴍ Nᴏᴏʙ**
 
-
 <!-- png icons from https://iconscout.com/ -->
-
-
-
 
 
 
