@@ -1,7 +1,7 @@
 
 
 
-![Sena](https://telegra.ph/file/7daef8aa1f321356400b6.jpg)
+![Sena](https://telegra.ph/file/382f52c3b6857eb108a00.jpg)
 
 
 
