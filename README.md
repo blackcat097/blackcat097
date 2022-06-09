@@ -1,7 +1,27 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://blackcat097.io)
+
+<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="blackcat097" /> </p>
+
+<p align="left"> <a href="https://twitter.com/blackcat097" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitteblackcat097r&style=for-the-badge" alt="blackcat097" /></a> </p>
+
+- 🔭 I’m currently working on **telagram bots**
+
+- 🌱 I’m currently learning **python**
+
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me **xxx@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 
 
-![Sena](https://telegra.ph/file/382f52c3b6857eb108a00.jpg)
 
 
 
@@ -22,44 +42,4 @@
   
   
   
-         𝘽𝙡𝙖𝙘𝙠 𝙘𝙖𝙩🐱
-
-- 🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ **<a href="https://t.me/tgshadow_fighters">Rᴏʙᴏᴛ </a>**
-
-- 🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ **Pʏᴛʜᴏɴ Aɴᴅ ʜᴀᴄᴋɪɴɢ**
-
-- 🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ **[Nᴏᴏʙ Cᴏᴅᴇʀ](HTTPS://t.me/The_cat_lover)**
-
-- ⚡ Fᴜɴ Fᴀᴄᴛ: **I Aᴍ Nᴏᴏʙ**
-
-<!-- png icons from https://iconscout.com/ -->
-
-
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/The_cat_lover)
-
-
-
-
-<details>
-  <summary> Github Stats </summary>
-  <br/>
-<p align="left"> <a href="https://github.com/blackcat097"><img src="https://github-profile-trophy.vercel.app/?username=blackcat097&no-bg=true" alt="blackcat" /></a> </p>
-</details>
-
-
-## Contribution Graph 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackcat097&theme=highcontrast" alt="blackcat097" /></p>
-
-### Contribution Graph:
-
-<p align="center">
-    <img
-        width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=blackcat097&custom_title=Contribution+Graph&theme=xcode"
-    />
-</p>
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=kennedy-ex&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
+       
