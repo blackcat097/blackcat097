@@ -24,7 +24,7 @@
   
          𝘽𝙡𝙖𝙘𝙠 𝙘𝙖𝙩🐱
 
-- 🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ **<a href="https://t.me/catmusicworld">Rᴏʙᴏᴛ </a>**
+- 🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ **<a href="https://t.me/tgshadow_fighters">Rᴏʙᴏᴛ </a>**
 
 - 🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ **Pʏᴛʜᴏɴ Aɴᴅ ʜᴀᴄᴋɪɴɢ**
 
