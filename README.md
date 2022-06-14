@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **hacking,telagram bots**
 
-- 📫 How to reach me **xxx@gmail.com**
+- 📫 How to reach me **telagram **
 
 - ⚡ Fun fact **I am devil I can hack ur insta by ur username 😏**
 
