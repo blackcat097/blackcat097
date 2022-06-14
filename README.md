@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **telagram bots**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **blackhathacking**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **hacking,telagram bots**
 
 - 📫 How to reach me **xxx@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am devil I can hack ur insta by ur username 😏**
 
 
 
