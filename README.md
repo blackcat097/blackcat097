@@ -9,9 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="blackcat097" /> </p>
 
 
-- 🔭 I’m currently working on **telagram bots**
+- 🔭 I’m currently working on **telagram bots,ᴅᴀʀᴋ ᴡᴇʙ**
 
-- 🌱 I’m currently learning **blackhathacking**
+- 🌱 I’m currently learning **ᴅᴀʀᴋ ᴡᴇʙ**
 
 - 💬 Ask me about **hacking,telagram bots**
 
