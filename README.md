@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **hacking,telagram bots**
 
-- 📫 How to reach me **telagram **
+- 📫 How to reach me **[ᴛᴇʟᴜɢᴜ ᴄᴏᴅᴇʀs](https://t.me/tgshadow_fighters)**
 
 - ⚡ Fun fact **I am devil I can hack ur insta by ur username 😏**
 
