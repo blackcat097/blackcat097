@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://blackcat097.io)
 
-<h1 align="center">Hi 👋, I'm kanna</h1>
+<h1 align="center">Hi 👋, I'm pokemon</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **ᴅᴀʀᴋ ᴡᴇʙ**
 
-- 💬 Ask me about **hacking,telagram bots**
+- 💬 Ask me about **hacking telagram bots**
 
 - 📫 How to reach me **[ᴛᴇʟᴜɢᴜ ᴄᴏᴅᴇʀs](https://t.me/tgshadow_fighters)**
 
